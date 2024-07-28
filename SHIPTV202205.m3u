@@ -45,6 +45,10 @@ rtp://239.45.3.23:5140
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央电视",CCTV15音乐
 rtp://239.45.0.20:5140
 
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
+rtp://239.45.0.12:5140
+
+
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视",CCTV-17农村农业
 rtp://239.45.3.52:5140
 
