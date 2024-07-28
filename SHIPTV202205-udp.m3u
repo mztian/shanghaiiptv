@@ -18,6 +18,9 @@ http://10.10.10.1:4000/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央电视",CCTV5体育
 http://10.10.10.1:4000/udp/239.45.1.69:5140
 
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
+http://10.10.10.1:4000/udp/239.45.0.12:5140
+
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://10.10.10.1:4000/udp/239.45.1.70:5140
 
@@ -59,6 +62,7 @@ http://10.10.10.1:4000/udp/239.45.1.52:5140
 
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="中央电视",中国教育-4
 http://10.10.10.1:4000/udp/239.45.1.50:5140
+
 
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海地方台",新闻综合
 http://10.10.10.1:4000/udp/239.45.3.209:5140
