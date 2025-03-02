@@ -18,8 +18,8 @@ http://10.10.10.1:4000/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央电视",CCTV5体育
 http://10.10.10.1:4000/udp/239.45.1.69:5140
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+体育赛事
-http://10.10.10.1:4000/udp/239.45.0.34:5140
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16奥林匹克" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视",CCTV-16奥林匹克4K
+http://10.10.10.1:4000/udp/239.45.0.12:5140
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
 http://10.10.10.1:4000/udp/239.45.1.70:5140
@@ -48,37 +48,20 @@ http://10.10.10.1:4000/udp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央电视",CCTV15音乐
 http://10.10.10.1:4000/udp/239.45.0.20:5140
 
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16奥林匹克" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视",CCTV-16奥林匹克4K
-http://10.10.10.1:4000/udp/239.45.0.12:5140
-
-#EXTINF:-1 tvg-id="72491" tvg-name="CCTV16奥林匹克高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视",CCTV-16奥林匹克高清
-http://10.10.10.1:4000/udp/239.45.0.10:5140
-
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视",CCTV-17农村农业
 http://10.10.10.1:4000/udp/239.45.3.52:5140
 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4k超高清
-http://10.10.10.1:4000/udp/239.45.0.55:5140
-
-#EXTINF:-1 tvg-id="20" tvg-name="中国国际CGTN记录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",中国国际CGTN记录
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",CGTN
 http://10.10.10.1:4000/udp/239.45.1.194:5140
 
-#EXTINF:-1 tvg-id="20001" tvg-name="CCTV高尔夫网球1" tvg-logo="" group-title="中央电视",CCTV高尔夫网球1
-rtp://239.45.0.48:5140
-#EXTINF:-1 tvg-id="20002" tvg-name="CCTV高尔夫网球2" tvg-logo="" group-title="中央电视",CCTV高尔夫网球2
-rtp://239.45.1.72:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="中央电视",中国教育-1
+http://10.10.10.1:4000/udp/239.45.1.125:5140
 
-#EXTINF:-1 tvg-id="6246" tvg-name="欢笑剧场4k" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="付费",欢笑剧场4k
-http://10.10.10.1:4000/udp/239.45.1.22:5140
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="付费",CHC家庭
-http://10.10.10.1:4000/udp/239.45.0.40:5140
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="付费",CHC动作
-http://10.10.10.1:4000/udp/239.45.0.41:5140
-#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="付费",CHC高清
-http://10.10.10.1:4000/udp/239.45.0.42:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="中央电视",中国教育-2
+http://10.10.10.1:4000/udp/239.45.1.52:5140
 
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海地方台",五星体育
-http://10.10.10.1:4000/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="中央电视",中国教育-4
+http://10.10.10.1:4000/udp/239.45.1.50:5140
 
 
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海地方台",新闻综合
@@ -99,6 +82,8 @@ http://10.10.10.1:4000/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海地方台",第一财经
 http://10.10.10.1:4000/udp/239.45.3.211:5140
 
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海地方台",五星体育
+http://10.10.10.1:4000/udp/239.45.3.210:5140
 
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海地方台",哈哈炫动
 http://10.10.10.1:4000/udp/239.45.1.55:5140
@@ -265,4 +250,3 @@ http://10.10.10.1:4000/udp/239.45.0.3:5140
 
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="各地卫视",新疆卫视
 http://10.10.10.1:4000/udp/239.45.1.116:5140#http://10.10.10.1:4000/udp/239.45.3.142:5140
-
