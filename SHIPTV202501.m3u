@@ -54,11 +54,15 @@ rtp://239.45.0.12:5140
 #EXTINF:-1 tvg-id="72491" tvg-name="CCTV16奥林匹克高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视",CCTV-16奥林匹克高清
 rtp://239.45.0.10:5140
 
+
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视",CCTV-17农村农业
 rtp://239.45.3.52:5140
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV4k超高清
 rtp://239.45.0.55:5140
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K_hdr" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
+rtp://239.45.1.21:5140
 
 #EXTINF:-1 tvg-id="20" tvg-name="中国国际CGTN记录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央电视",中国国际CGTN记录
 rtp://239.45.1.194:5140
