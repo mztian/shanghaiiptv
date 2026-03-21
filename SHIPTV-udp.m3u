@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-http://10.10.10.1:4000/udp/233.18.204.44:5140
+#EXTINF:-1 tvg-id="136" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="央视",CCTV-13新闻
+http://10.10.10.1:4000/udp/233.18.204.79:5140
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV-1综合
 http://10.10.10.1:4000/udp/233.18.204.52:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="央视",CCTV-2财经
@@ -28,32 +28,24 @@ http://10.10.10.1:4000/udp/233.18.204.76:5140
 http://10.10.10.1:4000/udp/233.18.204.77:5140
 #EXTINF:-1 tvg-id="135" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://10.10.10.1:4000/udp/233.18.204.78:5140
-#EXTINF:-1 tvg-id="136" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="央视",CCTV-13新闻
-http://10.10.10.1:4000/udp/233.18.204.79:5140
+
 #EXTINF:-1 tvg-id="137" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="央视",CCTV-14少儿
 http://10.10.10.1:4000/udp/233.18.204.80:5140
 #EXTINF:-1 tvg-id="138" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="央视",CCTV-15音乐
 http://10.10.10.1:4000/udp/233.18.204.81:5140
 #EXTINF:-1 tvg-id="139" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16奥林匹克
 http://10.10.10.1:4000/udp/233.18.204.82:5140
-#EXTINF:-1 tvg-id="648" tvg-name="CCTV-16_4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="648" tvg-name="CCTV-16_4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16奥林匹克4K
 http://10.10.10.1:4000/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="140" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://10.10.10.1:4000/udp/233.18.204.83:5140
-#EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K超高清
+#EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K超高清1
 http://10.10.10.1:4000/udp/233.18.204.188:5140
-#EXTINF:-1 tvg-id="656" tvg-name="CCTV-4K 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K超高清
+#EXTINF:-1 tvg-id="656" tvg-name="CCTV-4K 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K超高清2
 http://10.10.10.1:4000/udp/233.18.204.204:5140
 #EXTINF:-1 tvg-id="91" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="央视",央视文化精品
 http://10.10.10.1:4000/udp/233.18.204.186:5140
-#EXTINF:-1 tvg-id="79" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="央视",风云足球
-http://10.10.10.1:4000/udp/233.18.204.176:5140
-#EXTINF:-1 tvg-id="80" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视",央视台球
-http://10.10.10.1:4000/udp/233.18.204.177:5140
-#EXTINF:-1 tvg-id="86" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="央视",高尔夫网球
-http://10.10.10.1:4000/udp/233.18.204.181:5140
-#EXTINF:-1 tvg-id="87" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="央视",怀旧剧场
-http://10.10.10.1:4000/udp/233.18.204.182:5140
+
 #EXTINF:-1 tvg-id="88" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="央视",风云剧场
 http://10.10.10.1:4000/udp/233.18.204.183:5140
 #EXTINF:-1 tvg-id="89" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="央视",第一剧场
@@ -167,16 +159,11 @@ http://10.10.10.1:4000/udp/233.18.204.86:5140
 http://10.10.10.1:4000/udp/233.18.204.227:5140
 #EXTINF:-1 tvg-id="161" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jyjs.png" group-title="",金鹰纪实
 http://10.10.10.1:4000/udp/233.18.204.104:5140
-#EXTINF:-1 tvg-id="171" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" group-title="",金鹰卡通
-http://10.10.10.1:4000/udp/233.18.204.113:5140
-#EXTINF:-1 tvg-id="83" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="",快乐垂钓
-http://10.10.10.1:4000/udp/233.18.204.42:5140
+
 #EXTINF:-1 tvg-id="145" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
 http://10.10.10.1:4000/udp/233.18.204.88:5140
 #EXTINF:-1 tvg-id="645" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
 http://10.10.10.1:4000/udp/233.18.204.218:5140
-#EXTINF:-1 tvg-id="236" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jjkt.png" group-title="",嘉佳卡通
-http://10.10.10.1:4000/udp/233.18.204.151:5140
 #EXTINF:-1 tvg-id="146" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
 http://10.10.10.1:4000/udp/233.18.204.89:5140
 #EXTINF:-1 tvg-id="646" tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
